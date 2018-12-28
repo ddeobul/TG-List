@@ -1,0 +1,58 @@
+! Version:1.0
+! Title: TG-List
+! Last modified:2018-12-28
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+!
+sports.naver.com$$div[tag-content="ya9.naver.com"]
+sports.naver.com$$div[class="media_end_linked"]
+!
+sports.naver.com##a[href*="oid=005"]
+sports.naver.com##a[onclick*="8800006F"]
+!
+sports.naver.com##.article_lst > li:has(> a[href*="oid=468"])
+sports.naver.com##a[href*="oid=468"]
+sports.naver.com##.news_list > ul > li:has(> a[href*="oid=468"])
+!
+mediatoday.co.kr##div[class="not_print"]
+hani.co.kr$$div[tag-content="sponsor-area"]
+!
+naver.com$$div[id="shp_cst"][class="section_shoppingcast"]
+naver.com$$div[class="column_banner"]
+naver.com$$div[class="media_end_linked"][id="linkNews"]
+!
+||tg.kakao.com$app=com.kakao.talk,important
+!
+funbe.net$$div[tag-content="text-center banner"]
+adulti40.com$$li[class="active"][tag-content="_blank"]
+adulti40.com$$a[target="_blank"]
+toonkor.men$$div[class="col-md-12 mobile-banner"]
+toonkor.men$$div[class="bn bnt"][width="100%"]
+tumblr.com$$input[id="tumblelog_self_adult"]
+adulti40.com$$section[id="about"][class="container gray-bg"]
+toonkor.men$$a[tag-content="bann"]
+sports.naver.com##.main_article > a
+sports.naver.com##.main_article > a + br{ display: none; }
+sports.naver.com##.main_articla > br
+naver.com$$div[class="ends_btn nv_notrans"][id="emotion_box"]
+naver.com##div[id="contentArea"] > a ~ br
+naver.com$$div[class="ad_area_frame"]
+naver.com$$div[class="media_end_linked nv_notrans"][id="link_news"]
+||dable.io^
+ytn.co.kr^$script
+newtoki.com$$div[tag-content="uchat.io"]
+newtoki.com$$div[tag-content="bannerhit"]
+etoland.co.kr$$a[tag-content="banner"]
+!Naver banner
+naver.com$$div[class="link_news"]
+naver.com$$p[tag-content="href="]
+naver.com$$div[id="channelBanner"]
+naver.com$$div[id="channelEventBanner"]
+naver.com$$div[id="channelRecommend"]
+naver.com$$div[class="box1 more_news2"]
+naver.com$$script[class="_adshow"]
+naver.com$$div[tag-content="ad_box"]
+news.naver.com^$script
+!Ransom
+||storstore.at^$empty,important
