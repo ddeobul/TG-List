@@ -5,4 +5,4 @@
 ! Version: 1.0
 ! TimeUpdated: 2024-01-19
 ! Expires: 30 days (update frequency)
-! Homepage: https://drive.google.com/file/d/1dJBxhDeoY7sFCl65dRWdv2FzDCWsv0iH/view?usp=sharing
+! Homepage: https://github.com/ddeobul/TG-List/blob/master/List-XC.txt
