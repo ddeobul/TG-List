@@ -6,3 +6,30 @@
 ! TimeUpdated: 2024-01-19
 ! Expires: 30 days (update frequency)
 ! Homepage: https://github.com/ddeobul/TG-List/blob/master/List-XC.txt
+xcrew.korail.com$$div[class="col-sm-6 align-self-right"]
+xcrew.korail.com#$#div[class="container-fluid"] { padding-left :3px; padding-right :3px;!important; }
+xcrew.korail.com#$#div[class="card-body"] { padding-left :2px; padding-right :2px; padding-bottom: 0px;!important; }
+xcrew.korail.com#$#div[class="col-sm-6 srch-col align-self-left section-bottom"] { padding :0px;!important; }
+xcrew.korail.com#$#div[class="section-title-middle"] { padding :0px!important; }
+xcrew.korail.com#$#div[id="list_wrapper"] { width: 400px;!important; }
+xcrew.korail.com#$#table[id="list"] > thead > tr > th { padding :5px!important; }
+xcrew.korail.com#$#tr[role="row"] > td.center { padding :5px!important; }
+!ITX
+xcrew.korail.com#$?#td:contains(320), td:contains(32181), td:contains(3230) { background-color: #D3D3D3!important; }
+!운용
+xcrew.korail.com#$?#tr:contains(32U9) { background-color: #FFFCCC!important; }
+!지도
+xcrew.korail.com#$?#tr:contains(32W) { background-color: #f5e6fd!important; }
+!첨승
+xcrew.korail.com#$?#tr:contains(32Y)  { background-color: #fdf5e6!important; }
+!동기
+xcrew.korail.com#$?#td:contains(강지*), td:not(:contains(, 김동*)):contains(김동*), td:contains(김정*), td:contains(박진*), td:contains(이승*), td:contains(허진*), td:contains(설향*), td:contains(배진*), td:contains(문종*), td:contains(이동*), td:contains(전현*) { font-family: "나눔바른고딕"; font-size: 15px; font-weight: bold!important; }
+xcrew.korail.com#$?#td:not(:contains(320)):contains(유정*) { font-size: 15px; font-family: "나눔바른고딕"; font-weight: bold!important; }
+!견습
+xcrew.korail.com#$?#tr:contains(32T) { background-color: #F0FFF0!important; }
+!내꺼
+xcrew.korail.com#$?#tr:not(:contains(320)):not(:contains(, 김현*)):contains(김현*) { background-color: #d7f8ff!important; }
+xcrew.korail.com#$?#td:not(:contains(320)):not(:contains(, 김현*)):contains(김현*) {  font-size: 15px; font-family: "나눔바른고딕"; font-weight: bold!important; }
+xcrew.korail.com#$?#tr > td:contains(3210) { color: #FF00BF!important; }
+xcrew.korail.com#$?#tr > td:contains(3250),td:contains(32M02) { color: #0000FF!important; }
+xcrew.korail.com#$?#tr > td:contains(32401),td:contains(32402),td:contains(32403),td:contains(32404) { color: #00B552!important; }
